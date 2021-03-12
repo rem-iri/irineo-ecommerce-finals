@@ -1,6 +1,15 @@
-Project: CSELEC06 WEBPROG2 Finals (Ecommerce Light)
+Project: CSELEC06 WEBPROG2 Finals (Ecommerce Web Application)
+  
+## Screenshots
 
-Group: wEb dEVeloPeR
+##### Home
 
-Member:
-  Irineo, Remer Al-Hamid | SEG22
+![](https://i.imgur.com/PSjrQMw.png)
+
+##### Product Page
+
+![](https://i.imgur.com/QXuyRXd.png)
+
+##### Checkout
+
+![](https://i.imgur.com/kCjCIJq.png)
